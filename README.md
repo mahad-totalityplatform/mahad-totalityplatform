@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahad-totalityplatform
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding & astronomy
 
 <!---
 mahad-totalityplatform/mahad-totalityplatform is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
